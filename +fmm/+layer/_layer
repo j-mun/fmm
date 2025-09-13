@@ -1,0 +1,23 @@
+edit "rcwa.add"
+
+
+superclasses:
+- default
+- shape
+
+working classes:
+- slab
+- rect
+- circ
+- poly1
+- poly2
+- multiptc
+- custom (?)
+
+not implemented yet:
+- xslab
+- xshape
+- x...
+- mslab
+- mshape
+- m...
